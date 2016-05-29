@@ -1,4 +1,4 @@
-{
+﻿{
     "mm.core.allparticipants": "所有成员",
     "mm.core.areyousure": "你确定吗？",
     "mm.core.cancel": "取消",
@@ -331,11 +331,13 @@
     "mm.login.authenticating": "验证中",
     "mm.login.cancel": "取消",
     "mm.login.connect": "连接",
+    "mm.login.credentialsdescription": "请输入下列一智教育网站的用户名和密码：",
     "mm.login.help": "帮助",
     "mm.login.invalidaccount": "请检查您的登录信息，或请您的网站管理员检查网站设置。",
     "mm.login.invalidmoodleversion": "无效的Moodle版本。最低版本要求是：",
     "mm.login.invalidsite": "网站URL是无效的。",
     "mm.login.login": "登录",
+    "mm.login.loginbutton": "请登录",
     "mm.login.logininsiterequired": "您需要在浏览器窗口中登录该站点。",
     "mm.login.mobileservicesnotenabled": "您的站点没有启用移动服务，如果您觉得有必要开启移动接入功能，请与站点管理员联系。",
     "mm.login.password": "密码",
