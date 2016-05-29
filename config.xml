@@ -5,10 +5,10 @@
         id        = "com.pkuyizhi.moodlemobile"
         versionCode = "2012"
         version   = "3.1.0">
-    <name>YiZhi</name>
+    <name>一智教育</name>
 
     <description>
-        YiZhi Education
+        北京 一智教育
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
